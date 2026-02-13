@@ -1,0 +1,37 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Introdução
+    chapters:
+    - file: intro
+  - caption: Fundamentos Computacionais
+    chapters:
+    - file: chapters/01-hardware-ia
+    - file: chapters/02-gerenciamento-memoria
+  - caption: Engenharia de Dados para IA
+    chapters:
+    - file: chapters/03-pipelines-dados
+    - file: chapters/04-vector-dbs
+    - file: chapters/05-embedding-pipelines
+  - caption: Arquitetura de Sistemas de IA
+    chapters:
+    - file: chapters/06-orquestracao-llm
+    - file: chapters/07-rag-avancado
+    - file: chapters/08-multi-agentes
+  - caption: Treinamento e Fine-tuning
+    chapters:
+    - file: chapters/09-distributed-training
+    - file: chapters/10-peft-lora
+    - file: chapters/11-rlhf-dpo
+  - caption: MLOps e Produção
+    chapters:
+    - file: chapters/12-serving-otimizacao
+    - file: chapters/13-quantizacao
+    - file: chapters/14-monitoramento
+  - caption: Segurança e Ética
+    chapters:
+    - file: chapters/15-seguranca-ia
+    - file: chapters/16-governanca-etica

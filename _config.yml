@@ -1,0 +1,32 @@
+# Book settings
+title: "Codificando a Inteligência"
+author: "João Lucas"
+copyright: "2024"
+logo: logo.png # Placeholder for logo
+
+# Execution settings
+execute:
+  execute_notebooks: cache
+
+# HTML-specific settings
+html:
+  favicon: logo.png
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: true
+  extra_navbar: Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+  home_page_in_navbar: true
+  baseurl: ""
+  google_analytics_id: ""
+  navbar_footer_text: ""
+  extra_footer: ""
+
+# PDF-specific settings
+latex:
+  latex_engine: pdflatex
+
+# Launch button settings
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com"

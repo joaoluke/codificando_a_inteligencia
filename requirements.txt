@@ -1,0 +1,15 @@
+jupyter-book
+jupyter-cache
+ghp-import
+numpy
+pandas
+matplotlib
+torch
+transformers
+langchain
+langgraph
+qdrant-client
+sentence-transformers
+vllm
+bitsandbytes
+peft
