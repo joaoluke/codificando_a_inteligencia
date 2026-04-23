@@ -89,7 +89,7 @@ E você lembra que falamos que os pesquisadores rebatizaram os seus estudos porq
 
 Agora que estamos conversados, podemos seguir?
 
-### Um recomeço
+#### Um recomeço
 
 Vimos que a IA começou a abandonar a ideia de replicar a inteligência humana com modelos que usavam regras rígidas, e começou a focar em modelos que conseguiam aprender com os dados, o que chamamos de aprendizado de máquina. Para uma boa analogia, é como se antes a gente tivesse um bibliotecário bem rígido, que organizava seus livros com base em dezenas de regras, autor, gênero, editora, ano, etc. Mas e se um livro não tiver autor, gênero ou ano? O bibliotecário não saberia onde colocar o livro, e o livro ficaria perdido na biblioteca. Aí começamos a usar um bibliotecário que leu muitos e muitos livros e, com base nessa experiência dele, ele consegue identificar onde colocar o livro, mesmo que ele não tenha autor, gênero ou ano. Onde a mensagem dessa época foi: "menos regras e mais dados". E essa foi a primeira grande virada de chave para a IA. Essa ideia já existia desde a década de 50, mas só agora tínhamos o hardware e os dados para colocar em prática.
 
